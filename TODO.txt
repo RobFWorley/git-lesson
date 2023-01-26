@@ -1,0 +1,24 @@
+To-do list:
+
+Finish making notation changes agreed with Yicheng.
+
+Look at Kirill's notes on the acoustic results.
+
+Add acknowledgement section.
+
+Make changes agreed with Sean.
+
+Email coauthors confirming authorship etc.
+
+Update reference to JASA paper.
+
+Update SNR and consider updating related experiments.
+
+Add annotations to photos.
+
+Cover letter for submission? - Ask Sean about this.
+
+Make figure captions shorter - possibly by moving some info to the text.
+
+
+
